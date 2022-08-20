@@ -6,7 +6,7 @@ def leiaInt(a):
             return question
         else:
             if question.strip() == '' or question != int:
-                print('\033[4;49;91m ERRO! Digite um número inteiro valido!\033[m')
+                print('\033[4;49;91m ERRO! Digite um número inteiro válido!\033[m')
                 question = input(a)
 
 
