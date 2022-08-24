@@ -16,3 +16,4 @@ def ajuda(a):
 
 a = ajuda('Função ou Biblioteca > ')
 
+
