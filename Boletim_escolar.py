@@ -1,3 +1,4 @@
+print('-=-=-=-=-=-=BOLETIM ESCOLAR=-=-=-=-=-=-')
 boletim = []
 ef = []
 nota = []
