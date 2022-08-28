@@ -105,7 +105,7 @@ def resumo(n, a=0, b=0):
     print('=' * 32)
     print(f'Preço analisado: \t{valor(n)}')
     print(f'Dobro do preço: \t{dobro(n)}')
-    print(f'Metado do preço: \t{metade(n)}')
+    print(f'Metade do preço: \t{metade(n)}')
     print(f'{a}% de aumento: \t{aumentar(n, a)}')
     print(f'{b}% de redução: \t{diminuir(n, b)}')
     print('=' * 32)
