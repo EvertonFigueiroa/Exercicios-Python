@@ -16,7 +16,7 @@ while True:
         lerArquivo(arq)
     elif anwers == 2:
         linhas()
-        print('NOVO CADASTRO'.center(30))
+        print('NOVO CADASTRO'.center(40))
         linhas()
         nome = str(input('Nome: '))
         idade = leiaInt('Idade: ')
