@@ -4,7 +4,7 @@ def escreva(txt):
     print('~'*(len(txt)+2))
 
 
-escreva('MEU OVO')
-escreva('SEU NÂO VEY')
-escreva('PROGRAMADOR? EU?')
+escreva('MEU NOME É EVERTON')
+escreva('VOCÊ CONSEGUE!')
+escreva('PROJETO DATA ANALYTICS')
 
